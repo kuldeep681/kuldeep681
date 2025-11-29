@@ -60,7 +60,7 @@ ML model that rates spoken/written introductions based on clarity, fluency, and 
 
 ## 📊 GitHub Stats & Activity
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep681&theme=tokyonight" width="48%" />
 
 ---
 
