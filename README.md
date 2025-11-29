@@ -51,7 +51,6 @@ NLP-powered resume scoring system that evaluates keywords, content quality, and 
       <h3>🚀 Frontend / Deployment</h3>
       <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
       <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
       <h3>🛠 Tools</h3>
