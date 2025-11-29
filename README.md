@@ -26,9 +26,6 @@ A retrieval-augmented chatbot built using embeddings, FAISS, and LLM inference. 
 NLP-powered resume scoring system that evaluates keywords, content quality, and job-role relevance.  
 👉 Tech: Python • NLP • Streamlit
 
-### 🗣 Self-Introduction Scorer  
-ML model that rates spoken/written introductions based on clarity, fluency, and grammar.
-
 ---
 
 ## ⚙ Tech Stack
@@ -38,39 +35,33 @@ ML model that rates spoken/written introductions based on clarity, fluency, and 
   <tr>
     <td width="25%" valign="top">
       <h3>🤖 AI / ML & Data</h3>
-      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/><br>
-      <img src="https://img.shields.io/badge/LLMs-GPT/Embeddings-blueviolet"/><br>
-      <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Python-3670A0?logo=python&logoColor=ffdd54"/> 
+      <img src="https://img.shields.io/badge/LLMs-GPT/Embeddings-blueviolet"/> 
+      <img src="https://img.shields.io/badge/Machine%20Learning-102230?logo=tensorflow&logoColor=white"/> 
+      <img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/> 
       <img src="https://img.shields.io/badge/NumPy-013243?logo=numpy&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
       <h3>⚙ Backend</h3>
-      <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/FastAPI-109989?logo=fastapi&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MongoDB-4ea94b?logo=mongodb&logoColor=white"/>
       <img src="https://img.shields.io/badge/REST%20APIs-005571"/>
     </td>
     <td width="25%" valign="top">
       <h3>🚀 Frontend / Deployment</h3>
-      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/><br>
-      <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Render-000000?logo=render&logoColor=white"/>
       <img src="https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white"/>
     </td>
     <td width="25%" valign="top">
       <h3>🛠 Tools</h3>
-      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/><br>
-      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/><br>
+      <img src="https://img.shields.io/badge/Power%20BI-F2C811?logo=powerbi&logoColor=black"/>
+      <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>
       <img src="https://img.shields.io/badge/VS%20Code-007ACC?logo=visualstudiocode&logoColor=white"/>
     </td>
   </tr>
 </table>
 </div>
-
----
-
-## 📊 GitHub Stats & Activity
-
-
 
 ---
 
@@ -81,18 +72,15 @@ ML model that rates spoken/written introductions based on clarity, fluency, and 
 - Streamlit AI applications  
 - Python-based open-source tools  
 
----
-
-## 📬 Connect With Me
-
-📧 Email: kuldeepmandal9051@gmail.com  🔗 LinkedIn: https://linkedin.com/in/kuldeep-mandal175514/  
-
----
 ## 😄 Fun Facts
 
 - I love building interactive AI tools that solve practical problems.  
 - I enjoy blending analytics + AI to make smart applications.  
 - I push commits even at 3 AM.  
+
+## 📬 Connect With Me
+
+📧 Email: kuldeepmandal9051@gmail.com      🔗 LinkedIn: https://linkedin.com/in/kuldeep-mandal175514/  
 
 ---
 
