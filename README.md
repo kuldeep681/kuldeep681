@@ -1,17 +1,3 @@
-<h1 align="center">👋 Hey, I'm Kuldeep Mandal</h1>
-
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=kuldeep681&" alt="kuldeep681" /></p>
-<h3 align="center">
-
-  Python | Machine Learning • LLM Applications • Gen-AI | FastAPI • Streamlit | MongoDB | Data Analytics | Power BI
-</h3>
-
-<p align="center">
-Building intelligent AI systems, data-driven applications, and practical ML tools that solve real-world problems.
-</p>
-
----
-
 <h1 align="center">🚀 Hey, I'm Kuldeep Mandal</h1>
 
 <h3 align="center">
