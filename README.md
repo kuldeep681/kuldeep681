@@ -38,19 +38,7 @@ Enterprise-grade AI-powered ticket automation and workflow orchestration platfor
 
 FastAPI • React • ChromaDB • RAG • Machine Learning • Ollama • SQLite • Workflow Orchestration
 
-🔗 Repo: https://github.com/kuldeep681/ai-ticket-workflow-engine
-
----
-
-## 📚 ShelfScanner — AI + OCR + Book Intelligence
-
-End-to-end AI project that scans bookshelf images, extracts book titles using OCR, fetches metadata, and allows intelligent bookmarking and exploration.
-
-### ⚙️ Tech Stack
-
-FastAPI • Streamlit • MongoDB • OCR.Space API • Google Books API
-
-🔗 Repo: https://github.com/kuldeep681/Shelf-Scanner
+🔗 Repo: [https://github.com/kuldeep681/ai-ticket-workflow-engine](https://github.com/kuldeep681/ai-ticket-workflow-engine)
 
 ---
 
@@ -62,7 +50,19 @@ Retrieval-Augmented Generation chatbot using embeddings, vector search, and LLM 
 
 Python • FAISS • LangChain • LLMs • Embeddings
 
-🔗 Repo: https://github.com/kuldeep681/Rag_Project1
+🔗 Repo: [https://github.com/kuldeep681/Rag_Project1](https://github.com/kuldeep681/Rag_Project1.git)
+
+---
+
+## 📚 ShelfScanner — AI + OCR + Book Intelligence
+
+End-to-end AI project that scans bookshelf images, extracts book titles using OCR, fetches metadata, and allows intelligent bookmarking and exploration.
+
+### ⚙️ Tech Stack
+
+FastAPI • Streamlit • MongoDB • OCR.Space API • Google Books API
+
+🔗 Repo: [https://github.com/kuldeep681/Shelf-Scanner](https://github.com/kuldeep681/Shelf-Scanner)
 
 ---
 
@@ -74,7 +74,7 @@ NLP-powered resume scoring system that evaluates keywords, content quality, and 
 
 Python • NLP • Streamlit
 
-🔗 Repo: https://github.com/kuldeep681/Self-introduction-scorer
+🔗 Repo: [https://github.com/kuldeep681/Self-introduction-scorer](https://github.com/kuldeep681/Self-introduction-scorer)
 
 ---
 
